@@ -6,9 +6,10 @@
 
 If you like developing Android, you must "hate" Spinners. I had countless issues with Spinners and I decided to make a new one. BetterSpinner is using AutoCompleteTextView to do what a Spinner really should do.
 
-Forked by https://github.com/Lesilva/BetterSpinner to fix enable/disable problem.
+Forked by https://github.com/Lesilva/BetterSpinner to fix bugs.
 
-See https://github.com/Lesilva/BetterSpinner/pull/27
+- Bug 1 https://github.com/Lesilva/BetterSpinner/pull/27
+- Bug 2 https://github.com/Lesilva/BetterSpinner/pull/33
 
 ### Download
 
@@ -23,13 +24,13 @@ repositories {
  For BetterSpinner:
 ```javascript
 dependencies {
-    compile 'com.github.douglasjunior.BetterSpinner:library:bugfix-1.1.0'
+    compile 'com.github.douglasjunior.BetterSpinner:library:bugfix-1.1.0-2'
 }
 ```
  For MaterialBetterSpinner:
 ```javascript
 dependencies {
-    compile 'com.github.douglasjunior.BetterSpinner:library-material:bugfix-1.1.0'
+    compile 'com.github.douglasjunior.BetterSpinner:library-material:bugfix-1.1.0-2'
 }
 ```
 
